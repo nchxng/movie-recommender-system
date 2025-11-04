@@ -20,7 +20,7 @@ problem by leveraging both user-item interactions and movie metadata.
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python**
 - **LightFM** - Hybrid recommendation library
 - **NumPy** - Numerical operations and array handling
 - **SciPy** - Sparse matrix operations
